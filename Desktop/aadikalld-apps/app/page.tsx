@@ -73,7 +73,7 @@ export default function Home() {
             </div>
 
             <h3 className="text-3xl font-black mt-6 group-hover:text-cyan-400 transition">
-              {app.name}
+              {app.title}
             </h3>
 
             <p className="text-gray-300 mt-4 leading-7">{app.desc}</p>
